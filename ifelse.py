@@ -8,3 +8,4 @@ elif marks >= 60:
     print("Good")
 else:
     print("Need improvement")
+    
